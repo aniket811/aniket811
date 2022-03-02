@@ -1,6 +1,11 @@
 {
-    "post-install-cmd": [
-        "php artisan clear-compiled",
-        "chmod -R 777 public/"
-    ]
+    "root":"public",
+    "clean_urls":true,
+    "https_only":true,
+    "error_page":"error.html",
+    "headers":{
+        "/**":{
+            "Access-Control-Allow-Origin":"*"
+        }
+}
 }
