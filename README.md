@@ -11,4 +11,13 @@
 
 [![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket811)](https://github.com/aniket811/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket811)](https://github.com/aniket811/github-readme-stats)
-<h1>Programming I know </h1
+<h1>I codes in </h1>
+<ul>
+  <li>Python (Intermediate)</li>
+  <li>Javascript (Advanced)
+  <li>Django (Advanced)</li>
+  <li>Typescript(Advanced)</li>
+  <li>Sql</li>
+  <li>MongoDB</li>
+  <li>Angular</li>
+</ul>
