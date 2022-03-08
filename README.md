@@ -7,7 +7,7 @@
 - 💬 Ask me about :Coding,Cyber security and other tech stuffs
 - 📫 How to reach me: @techie_aniket on instagram
 
-- ⚡ Fun fact about me: I like to code Midnight 
+- ⚡ Fun fact about me: I like to code at Midnight 
 
 [![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket811)](https://github.com/aniket811/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket811)](https://github.com/aniket811/github-readme-stats)
