@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Javascript libraries and Frameworks
 - 💬 Ask me about :Coding,Cyber security and other tech stuffs
-- 📫 How to reach me: @techie_aniket on ins 
+- 📫 How to reach me: @techie_aniket on instagran
 
 - ⚡ Fun fact about me: I like to code Midnight 
 
