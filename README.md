@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact about me: I like to code Midnight 
 -->
 [![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket811)](https://github.com/aniket811/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket811)](https://github.com/aniket811/github-readme-stats)
