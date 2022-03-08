@@ -11,7 +11,7 @@
 
 [![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket811)](https://github.com/aniket811/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket811)](https://github.com/aniket811/github-readme-stats)
-<h1>I codes in </h1>
+<h1>Coding Skills </h1>
 <ul>
   <li>Python (Intermediate)</li>
   <li>Javascript (Advanced)
