@@ -17,7 +17,10 @@
   <li>Javascript (Advanced)
   <li>Django (Advanced)</li>
   <li>Typescript(Advanced)</li>
-  <li>Sql</li>
-  <li>MongoDB</li>
-  <li>Angular</li>
+  <li>Sql(Beginner)</li>
+  <li>MongoDB(Advaned)</li>
+  <li>Angular(Advanced)</li>
+  <li>C++ (Advanced)</li>
+  <li>Java</li>
 </ul>
+
