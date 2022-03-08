@@ -21,6 +21,6 @@
   <li>MongoDB(Advaned)</li>
   <li>Angular(Advanced)</li>
   <li>C++ (Advanced)</li>
-  <li>Java</li>
+  <li>Java (Beginner)</li>
 </ul>
 
