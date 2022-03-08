@@ -8,7 +8,9 @@
 - 📫 How to reach me: @techie_aniket on instagram
 
 - ⚡ Fun fact about me: I like to code at Midnight 
-
+<p ">
+<a href="https://instagram.com/techie_aniket" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_khushboo.goel" height="30" width="40" /></a>
+</p>
 [![Aniket's GitHub stats](https://github-readme-stats.vercel.app/api?username=aniket811)](https://github.com/aniket811/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket811)](https://github.com/aniket811/github-readme-stats)
 <h1>Coding Skills </h1>
