@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript's libraries and frameworks**
 
-- 👨‍💻 All of my projects are available at [https://techie-aniket01.herokuapp.com/](https://techie-aniket01.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://techieaniket.ga]
 
 - 💬 Ask me about **Programming,Cybersecurity and other tech related stuffs**
 
