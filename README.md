@@ -4,7 +4,7 @@ Hi 👋 My name is Aniket Joshi
 Web Developer and Cyber Security Geek
 -------------------------------------
 
-I've been started coding since 10th.I found my interest in web development
+I've been started coding since 10th.I found my interest in web development and applications development.
 
 * 🌍  I'm based in Jalgaon
 * ✉️  You can contact me at [ajosh4347@gmail.com](mailto:ajosh4347@gmail.com)
