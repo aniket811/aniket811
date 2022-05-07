@@ -8,7 +8,7 @@ I've been started coding since 10th.I found my interest in web development and a
 
 * 🌍  I'm based in Jalgaon
 * ✉️  You can contact me at [ajosh4347@gmail.com](mailto:ajosh4347@gmail.com)
-* 🧠  I'm learning React Js
+* 🧠  I'm learning React Js,and C#
 
 ### Skills
 
