@@ -6,8 +6,8 @@ Hi  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
 
 Web Developer and Cyber Security Geek
 -------------------------------------
-
-A devotee of shri krishna who believes everything happens for a reason !💛
+About Me
+I am a Full Stack .NET Developer with Strong Foundation in Angular,ASP.NET,MVC,API building web applications. . I am passionate about building high-quality software and enjoy collaborating with other developers to solve complex problems.
 
 * 🌍  I'm based in Jalgaon
 * ✉️  You can contact me at [ajosh4347@gmail.com](mailto:ajosh4347@gmail.com)
