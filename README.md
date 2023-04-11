@@ -3,13 +3,13 @@ Hi  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
          height="45"
          width="45" /> I'm Aniket!
 =============================
-I am a Full Stack .NET Developer with Strong Foundation in Angular,ASP.NET,MVC,API building web applications. . I am passionate about building high-quality software and enjoy collaborating with other developers to solve complex problems.
+I am a Full Stack .NET Developer with Strong Foundation in Angular,ASP.NET,MVC,API building web applications. I am passionate about building high-quality software and enjoy collaborating with other developers to solve complex problems.
 -------------------------------------
 
 
 * 🌍  I'm based in Jalgaon
 * ✉️  You can contact me at [ajosh4347@gmail.com](mailto:ajosh4347@gmail.com)
-* 🧠  I'm learning React Js,C#
+* 🧠  I'm learning sharpening my skills of Angular and .Net
 
 ### Skills
 
