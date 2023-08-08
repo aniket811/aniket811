@@ -9,8 +9,8 @@ I am a Full Stack .NET Developer with Strong Foundation in Angular,ASP.NET,MVC,A
 
 * 🌍  I'm based in Jalgaon
 * ✉️  You can contact me at [ajosh4347@gmail.com](mailto:ajosh4347@gmail.com)
-* 🧠  I'm learning sharpening my skills of Angular and .Net
-
+* 🧠  I'm learning sharpening my skills of Angular and ASP.Net Core MVC& API
+ 
 ### Skills
 
 <p align="left">
