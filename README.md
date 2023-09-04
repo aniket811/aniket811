@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aniket and I'm a Full Stack .Net Developer, from Jalgaon</h2>
+<h2 align="left">Hi 👋! My name is Aniket and I'm a Full Stack .Net Developer from Jalgaon</h2>
 
 ###
 
