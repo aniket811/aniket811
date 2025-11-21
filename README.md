@@ -31,7 +31,7 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket811&show_icons=true&locale=en" alt="aniket811" /></p>
   </div>
   <div class="col-md">
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=847365" style='border:none;'>
+   <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=847365" style='border:none;'></iframe>
 </iframe>
   <a href="https://app.daily.dev/aniketjoshi31"><img src="https://api.daily.dev/devcards/v2/DYI9mJyCCnay46oYbORAv.png?r=6h5&type=default" width="356" alt="Aniket Joshi's Dev Card"/></a>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniket811&" alt="aniket811" /></p>
