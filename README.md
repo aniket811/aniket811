@@ -15,7 +15,7 @@
 
 - 🌱 Currently improving in **.NET Core, .NET Framework & Angular**
 - 💬 Ask me about **Angular, C#, .NET, Web Security**
-- 📧 Email: **aniketjoshi992@gmail.com**
+- 📧 Email: **aniketjoshi056@gmail.com**
 - ⚡ Fun fact: *I can turn even an exciting story into a boring one 😄*
 
 ---
