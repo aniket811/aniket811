@@ -50,13 +50,6 @@
 
 ## 📊 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniket811&show_icons=true&layout=compact" height="160" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket811&show_icons=true" height="160" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aniket811&theme=dark" height="160" />
