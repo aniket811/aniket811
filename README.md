@@ -60,8 +60,11 @@
 ## 🛡️ Security & Learning Badges
 
 ### TryHackMe Badge  
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=847365" style='border:none;'></iframe>
-
+<p align="center">
+  <a href="https://tryhackme.com/p/aniket78414">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/aniket78414.png" />
+  </a>
+</p>
 ### DevCard  
 <a href="https://app.daily.dev/aniketjoshi31">
   <img src="https://api.daily.dev/devcards/v2/DYI9mJyCCnay46oYbORAv.png?r=6h5&type=default" width="356" alt="Dev Card"/>
